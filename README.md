@@ -2,11 +2,9 @@
 
 This repository contains the recordings for 348 Cozmo animations (app version 1.5.0), as well as a script to run the animations. You can use these recordings for your experiments, further validation of these animations, or use the code to run/call individual animations.
 
-Recordings were made in Summer 2017. The complete list of the animations can be found in the anim_record.csv file. 
+Recordings  were made in Summer 2017. The complete list of the animations can be found in the anim_record.csv file. 
 
-*Set 1 (348 animations)*
-
-The animation group name (e.g., ‘ask’, ‘badword’, ‘turtleroll’, ‘hiccup’) were used to subjectively classify the animation as either social or not social. These animations were then recorded and rated by independent raters (n = 264). 
+The animation group name (e.g., ‘ask’, ‘badword’, ‘turtleroll’, ‘hiccup’) were used to subjectively classify the animation as either social or not social. The social animations (348) were then recorded and rated by independent raters (n = 264). 
 
 The code for this experiment can be found in the [emotion classification repository](https://github.com/cozmo4hri/emotion-classification/).
 
